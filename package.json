@@ -29,7 +29,7 @@
             "type":"string",
             "name":"additionalCharacters",
             "value":"",
-            "title":"String Preference"
+            "title":"Addtional string Pref"
         }
     ]
 }
